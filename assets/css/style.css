@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+.principal {
+
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
 .container {
   display: flex;
   background-color: white;

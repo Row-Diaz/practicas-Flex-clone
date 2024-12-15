@@ -5,7 +5,6 @@
 }
 
 .principal {
-
   display: flex;
   justify-content: center;
   background-color: aqua;
@@ -63,14 +62,12 @@ section {
 
 .segundo {
   display: flex;
-  
-  justify-content:space-evenly;
-  gap:10px;
-  
+
+  justify-content: space-evenly;
+  gap: 10px;
 }
 
 .card-body {
-
   display: flex;
   justify-content: center;
 }
